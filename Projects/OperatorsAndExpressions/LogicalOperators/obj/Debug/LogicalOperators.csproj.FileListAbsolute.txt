@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\LogicalOperators\obj\Debug\LogicalOperators.pdb

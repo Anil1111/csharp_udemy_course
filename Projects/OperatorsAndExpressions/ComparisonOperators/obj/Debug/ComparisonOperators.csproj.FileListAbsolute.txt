@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ComparisonOperators\obj\Debug\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ComparisonOperators\obj\Debug\ComparisonOperators.pdb

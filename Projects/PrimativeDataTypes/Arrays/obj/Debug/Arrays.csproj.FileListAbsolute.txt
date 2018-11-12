@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Arrays\bin\Debug\Arrays.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Arrays\bin\Debug\Arrays.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Arrays\obj\Debug\Arrays.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\bin\Debug\ConsoleColors.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\bin\Debug\ConsoleColors.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\bin\Debug\ConsoleColors.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\obj\Debug\ConsoleColors.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\obj\Debug\ConsoleColors.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\obj\Debug\ConsoleColors.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\ConsoleColors\obj\Debug\ConsoleColors.csprojAssemblyReference.cache

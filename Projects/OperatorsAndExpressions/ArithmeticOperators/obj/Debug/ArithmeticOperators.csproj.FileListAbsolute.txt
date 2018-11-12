@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\bin\Debug\ArithmeticOperators.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\OperatorsAndExpressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.pdb

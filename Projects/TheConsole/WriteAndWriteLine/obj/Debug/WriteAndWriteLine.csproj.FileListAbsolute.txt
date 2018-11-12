@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\bin\Debug\WriteAndWriteLine.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\bin\Debug\WriteAndWriteLine.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\bin\Debug\WriteAndWriteLine.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\obj\Debug\WriteAndWriteLine.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\obj\Debug\WriteAndWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\obj\Debug\WriteAndWriteLine.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\WriteAndWriteLine\obj\Debug\WriteAndWriteLine.pdb

@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\ToString\bin\Debug\ToString.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\ToString\bin\Debug\ToString.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\ToString\bin\Debug\ToString.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\ToString\obj\Debug\ToString.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\ToString\obj\Debug\ToString.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\ToString\obj\Debug\ToString.pdb

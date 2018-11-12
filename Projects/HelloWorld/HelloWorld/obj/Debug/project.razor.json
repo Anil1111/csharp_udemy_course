@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\hamptonjt\\100days\\dotnet\\udemy_C_Sharp_course\\Projects\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

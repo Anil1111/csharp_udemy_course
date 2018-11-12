@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\bin\Debug\Reading.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\bin\Debug\Reading.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\bin\Debug\Reading.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\obj\Debug\Reading.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\obj\Debug\Reading.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\obj\Debug\Reading.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\TheConsole\Reading\obj\Debug\Reading.pdb

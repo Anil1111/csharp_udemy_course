@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.pdb

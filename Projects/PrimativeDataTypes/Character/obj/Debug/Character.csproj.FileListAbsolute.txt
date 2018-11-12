@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\bin\Debug\Character.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\bin\Debug\Character.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\bin\Debug\Character.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\obj\Debug\Character.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\obj\Debug\Character.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\obj\Debug\Character.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\PrimativeDataTypes\Character\obj\Debug\Character.pdb
