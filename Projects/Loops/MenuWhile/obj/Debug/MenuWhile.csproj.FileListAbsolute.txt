@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\bin\Debug\MenuWhile.exe.config
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\bin\Debug\MenuWhile.exe
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\bin\Debug\MenuWhile.pdb
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\obj\Debug\MenuWhile.csprojAssemblyReference.cache
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\obj\Debug\MenuWhile.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\obj\Debug\MenuWhile.exe
+C:\Users\hamptonjt\source\repos\Loops\MenuWhile\obj\Debug\MenuWhile.pdb

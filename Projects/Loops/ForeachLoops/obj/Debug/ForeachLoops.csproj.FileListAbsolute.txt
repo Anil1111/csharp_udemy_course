@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\bin\Debug\ForeachLoops.exe.config
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\bin\Debug\ForeachLoops.exe
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\bin\Debug\ForeachLoops.pdb
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\obj\Debug\ForeachLoops.csprojAssemblyReference.cache
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\obj\Debug\ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\obj\Debug\ForeachLoops.exe
+C:\Users\hamptonjt\source\repos\Loops\ForeachLoops\obj\Debug\ForeachLoops.pdb

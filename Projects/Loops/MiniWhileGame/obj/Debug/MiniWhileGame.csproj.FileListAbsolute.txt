@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\obj\Debug\MiniWhileGame.csprojAssemblyReference.cache
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\obj\Debug\MiniWhileGame.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\bin\Debug\MiniWhileGame.exe.config
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\bin\Debug\MiniWhileGame.exe
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\bin\Debug\MiniWhileGame.pdb
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\obj\Debug\MiniWhileGame.exe
+C:\Users\hamptonjt\source\repos\Loops\MiniWhileGame\obj\Debug\MiniWhileGame.pdb

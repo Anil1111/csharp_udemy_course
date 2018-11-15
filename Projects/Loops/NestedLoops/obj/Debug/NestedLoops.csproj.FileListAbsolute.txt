@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\source\repos\Loops\NestedLoops\bin\Debug\NestedLoops.exe.config
+C:\Users\hamptonjt\source\repos\Loops\NestedLoops\bin\Debug\NestedLoops.exe
+C:\Users\hamptonjt\source\repos\Loops\NestedLoops\bin\Debug\NestedLoops.pdb
+C:\Users\hamptonjt\source\repos\Loops\NestedLoops\obj\Debug\NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\source\repos\Loops\NestedLoops\obj\Debug\NestedLoops.exe
+C:\Users\hamptonjt\source\repos\Loops\NestedLoops\obj\Debug\NestedLoops.pdb

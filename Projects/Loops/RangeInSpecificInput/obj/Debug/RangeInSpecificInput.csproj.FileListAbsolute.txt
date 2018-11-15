@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\source\repos\Loops\RangeInSpecificInput\bin\Debug\RangeInSpecificInput.exe.config
+C:\Users\hamptonjt\source\repos\Loops\RangeInSpecificInput\bin\Debug\RangeInSpecificInput.exe
+C:\Users\hamptonjt\source\repos\Loops\RangeInSpecificInput\bin\Debug\RangeInSpecificInput.pdb
+C:\Users\hamptonjt\source\repos\Loops\RangeInSpecificInput\obj\Debug\RangeInSpecificInput.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\source\repos\Loops\RangeInSpecificInput\obj\Debug\RangeInSpecificInput.exe
+C:\Users\hamptonjt\source\repos\Loops\RangeInSpecificInput\obj\Debug\RangeInSpecificInput.pdb

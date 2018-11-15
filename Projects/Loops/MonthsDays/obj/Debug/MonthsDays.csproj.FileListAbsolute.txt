@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\source\repos\Loops\MonthsDays\bin\Debug\MonthsDays.exe.config
+C:\Users\hamptonjt\source\repos\Loops\MonthsDays\bin\Debug\MonthsDays.exe
+C:\Users\hamptonjt\source\repos\Loops\MonthsDays\bin\Debug\MonthsDays.pdb
+C:\Users\hamptonjt\source\repos\Loops\MonthsDays\obj\Debug\MonthsDays.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\source\repos\Loops\MonthsDays\obj\Debug\MonthsDays.exe
+C:\Users\hamptonjt\source\repos\Loops\MonthsDays\obj\Debug\MonthsDays.pdb
