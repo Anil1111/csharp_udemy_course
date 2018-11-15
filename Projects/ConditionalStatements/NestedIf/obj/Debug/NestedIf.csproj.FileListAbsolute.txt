@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\bin\Debug\NestedIf.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\bin\Debug\NestedIf.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\bin\Debug\NestedIf.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\obj\Debug\NestedIf.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\obj\Debug\NestedIf.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\obj\Debug\NestedIf.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\NestedIf\obj\Debug\NestedIf.pdb

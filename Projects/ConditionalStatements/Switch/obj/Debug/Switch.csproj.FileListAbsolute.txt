@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\bin\Debug\Switch.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\bin\Debug\Switch.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\bin\Debug\Switch.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\obj\Debug\Switch.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\obj\Debug\Switch.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\ConditionalStatements\Switch\obj\Debug\Switch.pdb
