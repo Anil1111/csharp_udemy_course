@@ -1,0 +1,6 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\ReturnMethods\bin\Debug\ReturnMethods.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\ReturnMethods\bin\Debug\ReturnMethods.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\ReturnMethods\bin\Debug\ReturnMethods.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\ReturnMethods\obj\Debug\ReturnMethods.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\ReturnMethods\obj\Debug\ReturnMethods.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\ReturnMethods\obj\Debug\ReturnMethods.pdb

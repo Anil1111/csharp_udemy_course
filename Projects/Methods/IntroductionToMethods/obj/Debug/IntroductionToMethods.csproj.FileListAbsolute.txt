@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\bin\Debug\IntroductionToMethods.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\bin\Debug\IntroductionToMethods.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\bin\Debug\IntroductionToMethods.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\obj\Debug\IntroductionToMethods.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\obj\Debug\IntroductionToMethods.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\obj\Debug\IntroductionToMethods.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\IntroductionToMethods\obj\Debug\IntroductionToMethods.pdb
