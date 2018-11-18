@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\bin\Debug\RefAndOut.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\bin\Debug\RefAndOut.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\bin\Debug\RefAndOut.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\obj\Debug\RefAndOut.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\obj\Debug\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\obj\Debug\RefAndOut.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\RefAndOut\obj\Debug\RefAndOut.pdb

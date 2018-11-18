@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\bin\Debug\VarNumOfArgs.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\bin\Debug\VarNumOfArgs.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\bin\Debug\VarNumOfArgs.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\obj\Debug\VarNumOfArgs.csprojAssemblyReference.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\obj\Debug\VarNumOfArgs.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\obj\Debug\VarNumOfArgs.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Methods\VarNumOfArgs\obj\Debug\VarNumOfArgs.pdb
