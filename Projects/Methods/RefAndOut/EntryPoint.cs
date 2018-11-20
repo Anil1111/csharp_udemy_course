@@ -17,9 +17,9 @@ class EntryPoint
         CorrectTheCoordinates(ref x, ref y);
 
         // out keyword - allows multiple returns, however, the assignment must be done inside the method
-        int area, parimeter;
-        CalcAreaAndParimeter(4, 6, out area, out parimeter);
-        Console.WriteLine($"Area = {area}: Parimeter = {parimeter}");
+        int area, perimeter;
+        CalcAreaAndPerimeter(4, 6, out area, out perimeter);
+        Console.WriteLine($"Area = {area}: Perimeter = {perimeter}");
     }
 
     static void IncreaseByOne(ref int number)
@@ -35,9 +35,9 @@ class EntryPoint
     }
 
     //challenge
-    static void CalcAreaAndParimeter(int length, int width, out int area, out int parimeter)
+    static void CalcAreaAndPerimeter(int length, int width, out int area, out int perimeter)
     {
         area = length * width;
-        parimeter = 2 * length + 2 * width;
+        perimeter = 2 * length + 2 * width;
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\bin\Debug\OutputtingArrays.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\bin\Debug\OutputtingArrays.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\bin\Debug\OutputtingArrays.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\obj\Debug\OutputtingArrays.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\obj\Debug\OutputtingArrays.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\obj\Debug\OutputtingArrays.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\OutputtingArrays\obj\Debug\OutputtingArrays.csprojAssemblyReference.cache
