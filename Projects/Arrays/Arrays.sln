@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToArrays", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputtingArrays", "OutputtingArrays\OutputtingArrays.csproj", "{BF62379A-1EE7-47DB-8A9B-684C212104C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCloning", "ArrayCloning\ArrayCloning.csproj", "{31D51A1B-4C13-4033-AB9C-80265616AC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversing", "Reversing\Reversing.csproj", "{311AE7A8-4779-4779-BAF2-B319B0A56EE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BF62379A-1EE7-47DB-8A9B-684C212104C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF62379A-1EE7-47DB-8A9B-684C212104C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF62379A-1EE7-47DB-8A9B-684C212104C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D51A1B-4C13-4033-AB9C-80265616AC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D51A1B-4C13-4033-AB9C-80265616AC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D51A1B-4C13-4033-AB9C-80265616AC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D51A1B-4C13-4033-AB9C-80265616AC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311AE7A8-4779-4779-BAF2-B319B0A56EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311AE7A8-4779-4779-BAF2-B319B0A56EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311AE7A8-4779-4779-BAF2-B319B0A56EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311AE7A8-4779-4779-BAF2-B319B0A56EE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

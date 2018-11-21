@@ -1,0 +1,7 @@
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\bin\Debug\Reversing.exe.config
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\bin\Debug\Reversing.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\bin\Debug\Reversing.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\obj\Debug\Reversing.csproj.CoreCompileInputs.cache
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\obj\Debug\Reversing.exe
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\obj\Debug\Reversing.pdb
+C:\Users\hamptonjt\100days\dotnet\udemy_C_Sharp_course\Projects\Arrays\Reversing\obj\Debug\Reversing.csprojAssemblyReference.cache
